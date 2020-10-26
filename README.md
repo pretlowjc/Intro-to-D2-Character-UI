@@ -5,7 +5,22 @@ This is a beginner's guide to understanding Destiny 2's character ui and how to 
 
 **Where to Begin?**
 
-To start off, lets look in the top left of the character's ui. There you will see four things. You will see a first the your name. Whether it be your gamertag, steam name, or your Playstation ID, these will be all there where the highlighted item is below.
+To start off, when you start up your game for the first time you will come across the steps to creating your character. First, you will choose which class you would like to be. You can choose from one of three classes. 
+
+**Titan**
+
+*"Disciplined and proud, Titans are capable of both aggressive assaults and stalwart defenses."*
+
+**Hunter**
+
+*"Agile and daring, Hunters are quick on their feet and quicker on the draw."
+
+**Warlock** 
+
+*"Warlocks weaponize the mysteries of the universe to sustain themselves and devastate their foes."*
+
+
+Lets look in the top left of the character's ui. There you will see four things. You will see a first the your name. Whether it be your gamertag, steam name, or your Playstation ID, these will be all there where the highlighted item is below.
 
 ![Character UI Name](https://user-images.githubusercontent.com/72057076/97233173-e21c7500-17b4-11eb-81f8-74e9dd6f88b2.png)
 
