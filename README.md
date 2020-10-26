@@ -13,11 +13,17 @@ To start off, when you start up your game for the first time you will come acros
 
 **Hunter**
 
-*"Agile and daring, Hunters are quick on their feet and quicker on the draw."
+*"Agile and daring, Hunters are quick on their feet and quicker on the draw."*
 
 **Warlock** 
 
 *"Warlocks weaponize the mysteries of the universe to sustain themselves and devastate their foes."*
+
+Next you will then choose your character's race and gender, then customize your face, hair, and markings. I will let you go through this when you start up the game and if you would like any lore, stories, and or explanation behind each race you can find it on the Destiny 2 Wiki where they explain it in depth. Simply follow the link below then hover above CHARACTERS and select Species.
+
+After the introduction to Destiny 2's story and an some gameplay you will finally have a chance to take a look into the character ui. I believe that they give a brief introduction into what everything is but this guide goes a little further in depth. 
+
+**Now Taking a Look into the Character's UI**
 
 
 Lets look in the top left of the character's ui. There you will see four things. You will see a first the your name. Whether it be your gamertag, steam name, or your Playstation ID, these will be all there where the highlighted item is below.
