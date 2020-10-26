@@ -26,7 +26,7 @@ After the introduction to Destiny 2's story and an some gameplay you will finall
 **Now Taking a Look into the Character's UI**
 
 
-Lets look in the top left of the character's ui. There you will see four things. You will see a first the your name. Whether it be your gamertag, steam name, or your Playstation ID, these will be all there where the highlighted item is below.
+Lets look in the top left of the character's ui. There you will see four things. You will see your name located here. Whether it be your Gamertag, Steam Name/ID, or your Playstation ID, these will be all there where the highlighted item is below.
 
 ![Character UI Name](https://user-images.githubusercontent.com/72057076/97233173-e21c7500-17b4-11eb-81f8-74e9dd6f88b2.png)
 
@@ -44,8 +44,43 @@ Lastly, you will come across your triumph score. Your triumph score is a total s
 
 **Element System**
 
-Lets explain the element system. There are three elements. *Arc* (orange), *Solar* (blue), and *Void* (purple). Each are depicted below from the subclass selection portion of the character's ui. 
+Before explaining the subclasses lets explain the element system. There are three elements. *Arc* (orange), *Solar* (blue), and *Void* (purple). Each are depicted below from the subclass selection portion of the character's ui. 
 
 ![Character UI Element Explanation](https://user-images.githubusercontent.com/72057076/97231248-99af8800-17b1-11eb-8a8e-e311918e238d.png)
 
 During gameplay in a PvE (player vs environment) environment, you can match the elemnts to the enemies shields if they have one and you will do more damage, breaking the enemies shield sooner versus using the wrong element or none at all. In higher tier gameplay this becomes a bit more important due to some modifiers within the game. This will be discussed in another guide at a later point.
+
+**Subclasses**
+
+![Character UI Subclass](https://user-images.githubusercontent.com/72057076/97235647-b18b0a00-17b9-11eb-9e42-0ca6f1eaa9cc.png)
+
+For each class, you have three subclasses, which also have three different paths with their own unique abilities. This means you have the Titan, Warlock, and Hunter, which each have Arc, Solar, and Void subclasses, and each of those have three different paths. This alone can be very confusing so I am going to make another guide for this as well explaining what each do, and what to pick and why.
+
+To continue, each of these specific subclasses and paths have their own names when you go to select a subclass to play as. Simply hover over one of the subclasses and select it, then you can change what path, ablities, grenade, and the jump.
+
+![Character UI Subclass Detailed](https://user-images.githubusercontent.com/72057076/97236639-e304d500-17bb-11eb-9794-564a1fb6e643.png)
+
+**Class Abilities**
+
+![Character UI Subclass Abilities](https://user-images.githubusercontent.com/72057076/97236630-dbddc700-17bb-11eb-90cf-dbb0dbed4d8e.png)
+
+Each class has their own unique abilities as well. You have two options to choose from when selecting a ability and each has a brief description explaining what each does. The Titan uses a barricade to shield them from incoming damage, the Hunter has a dodge that either reloads your weapon or recharges your melee ability, and then the Warlock has a rift which either heals you as you stand in it or increases weapon damage.
+
+**Grenades**
+
+![Character UI Subclass Grenades](https://user-images.githubusercontent.com/72057076/97236675-fd3eb300-17bb-11eb-81e8-74b4c4ae81aa.png)
+
+For each class, you have three grenades to choose from and each does their own unique thing. Just mess around and see which you like or prefer. Though some are better than others or are simply more viable and easier to use.
+
+**Movement Modes / Jump**
+
+![Character UI Subclass Jump](https://user-images.githubusercontent.com/72057076/97236685-062f8480-17bc-11eb-917a-19ae367f647b.png)
+
+Again, for each class you have three of these to choose from and each is a bit different. Either giving you better movement in air, better control, or more lift. This is personal preference but you will find that as you play there are situational advantages to each. 
+
+**Super Abilities**
+
+![Character UI Subclass Trees](https://user-images.githubusercontent.com/72057076/97236701-0b8ccf00-17bc-11eb-89dd-bc500225f9c6.png)
+
+During gameplay you can use an ultimate/super ability which allows the player to use offensive, defensive, or support powers. You can find videos explaining which are best in what situations but I will go over this in a later guide as well.
+
