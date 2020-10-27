@@ -42,6 +42,32 @@ Lastly, you will come across your triumph score. Your triumph score is a total s
 
 ![Character UI Triumph Score](https://user-images.githubusercontent.com/72057076/97233853-12b0de80-17b6-11eb-8433-953f9524dcb6.png)
 
+**Glimmer**
+
+Glimmer is the in game currency used to mod and craft weapons and armor.
+
+![Character UI Glimmer](https://user-images.githubusercontent.com/72057076/97349593-08e6b400-1866-11eb-9d36-499442f1fdc2.png)
+
+**Legendary Shards**
+
+Legendary shards are another currency type that is used to purchase Exotic weapons from Xur, and armor and weapons from other vendors. Besides that, they are used to improve gear.
+
+![Character UI Legendary Shards](https://user-images.githubusercontent.com/72057076/97350105-b6f25e00-1866-11eb-919f-2e2f41587be1.png)
+
+**Silver**
+
+Silver is an in game currency that is actual real money. This can be purchased from either the Xbox store, Playstation store, or on Steam if you are on PC. This currency is really only used to buy cosmetics from Eververse, which I would not worry about in the beginning at all.
+
+![Character UI Silver](https://user-images.githubusercontent.com/72057076/97350290-ef923780-1866-11eb-9e83-577988a841ab.png)
+
+**Bright Dust**
+
+Bright dust is used to buy cosmetics from Eververse and can be earned by playing the game.
+
+![Character UI Bright Dust](https://user-images.githubusercontent.com/72057076/97350716-249e8a00-1867-11eb-98ef-b51f52db9fd9.png)
+
+This explains what is located at the top of the character ui besides the navigation bar, which I believe is somewhat self explanatory.
+
 **Element System**
 
 Before explaining the subclasses lets explain the element system. There are three elements. *Arc* (orange), *Solar* (blue), and *Void* (purple). Each are depicted below from the subclass selection portion of the character's ui. 
@@ -83,4 +109,59 @@ Again, for each class you have three of these to choose from and each is a bit d
 ![Character UI Subclass Trees](https://user-images.githubusercontent.com/72057076/97236701-0b8ccf00-17bc-11eb-89dd-bc500225f9c6.png)
 
 During gameplay you can use an ultimate/super ability which allows the player to use offensive, defensive, or support powers. You can find videos explaining which are best in what situations but I will go over this in a later guide as well.
+
+**Weapon System**
+
+So now, we're going to dive into the weapon system. I am for now going to keep it simple. But you have the following main weapon types.
+
+*NOTE: There are some exotics that will fit into some categories they normally wouldn't. An example would be Eriana's Vow. This weapon is a Hand Cannon but it uses green/special ammo. There are others like this as well for the Heavy category.*
+
+* Primary (Uses the white/primary ammo that drops)
+  * Assault Rifle
+  * Hand Cannon
+  * Pulse Rifle
+  * Bow
+  * Submachine Gun
+  * Sidearm
+  
+* Secondary (Uses the green/special ammo that drops)
+  * Grenade Launcher
+  * Fusion Rifle
+  * Sniper Rifle
+  * Shotgun
+  * Trace Rifle
+  
+* Heavy/Power (Uses the purple/heavy ammo)
+  * Machine Gun
+  * Sword
+  * Grenade Launcher 
+  * Sniper Rifle
+  * Shotgun
+  * Rocket Launcher
+  * Linear Fusion Rifle
+  
+*NOTE: There are different types or archetypes of each of these weapons. They each perform differently. Some will fire slower, do more DPS, or have some special trait like shooting three to five round bursts each time you pull the trigger. I will cover this at a later point discussing which weapons are best in slot and link DPS charts as well.*
+  
+With the weapon system in Destiny 2, Primary and Secondary weapons can fit into either or the Kinetic slot or the Energy slot. The heavy weapons listed above stay the same.
+
+**Kinetic Weapons**
+
+![Character UI Kinetic Weapon](https://user-images.githubusercontent.com/72057076/97347978-e81d5f00-1863-11eb-8596-7dc3f7555c6d.png)
+
+Weapons in the Kinetic slot do not have an elemental burn attached to them. The weapons that fit into this category are Secondary and Primary weapons. 
+
+**Energy Weapons**
+
+![Character UI Energy Weapon](https://user-images.githubusercontent.com/72057076/97348171-2dda2780-1864-11eb-895c-5d73d86dabb1.png)
+
+Weapons in this slot have an elemental burn. They can be one of the three that we previously talked about in the beginning. The weapons that fit into this category are the Primary and the Secondary weapon types.
+
+**Heavy Weapons** 
+
+![Character UI Power Weapon](https://user-images.githubusercontent.com/72057076/97348590-bbb61280-1864-11eb-918d-dd7c1babc67a.png)
+
+These weapons are going to be the ones I listed above in the Heavy/Power category. They only use the heavy (purple) ammo that drops. These weapons normally do a lot of damage and DPS. They can be used during boss phases and or killing supers within the crucible (PvP/Player versus Player).
+
+You can do various different builds with each of these weapons to optimize your performance during gameplay. Normally you want to use at least one Primary weapon, one secondary weapon, and then one Heavy, which technically you can't avoid because this slot doesn't move nor take any weapons from the other categories. Another way you can play is simply using two Primary weapons and then a Heavy. Honestly, this is just personal preference. To start off, just play the game and find weapons you like to use.
+
 
