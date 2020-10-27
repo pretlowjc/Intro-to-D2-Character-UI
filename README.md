@@ -164,4 +164,62 @@ These weapons are going to be the ones I listed above in the Heavy/Power categor
 
 You can do various different builds with each of these weapons to optimize your performance during gameplay. Normally you want to use at least one Primary weapon, one secondary weapon, and then one Heavy, which technically you can't avoid because this slot doesn't move nor take any weapons from the other categories. Another way you can play is simply using two Primary weapons and then a Heavy. Honestly, this is just personal preference. To start off, just play the game and find weapons you like to use.
 
+**Ghost**
 
+The second to last slot on the left side of the character ui is where your ghost is located.
+
+![Character UI Ghost](https://user-images.githubusercontent.com/72057076/97351190-c920cc00-1867-11eb-8189-981f25186150.png)
+
+Your ghost can give you additional attributes. These could include increased XP gain, glimmer gain, identify items near you on your HUD, reward additonal faction tokens or just simply look really cool! You can find them during normal gameplay or purchasing them from NPCs/vendors.
+
+**Artifact**
+
+![Character UI  Artifact](https://user-images.githubusercontent.com/72057076/97351868-b6f35d80-1868-11eb-9931-cea926be9bea.png)
+
+The last slot on the left is your artifact.
+
+![Character UI Artifact Detailed](https://user-images.githubusercontent.com/72057076/97351953-d12d3b80-1868-11eb-9ce1-6aab5d0c5131.png)
+
+When you open the artifact and look at its details, the artifact is where gameplay begins to change a bit. You can find enhanced mods, barrier mods, mods that grant glimmer when killing a certain enemy, and then other mods that do "special" things. These special things could include weakening enemies and or increasing damage.
+
+**Power Level**
+
+![Character UI Power Level](https://user-images.githubusercontent.com/72057076/97352937-bdcea000-1869-11eb-8928-21aed29a5a76.png)
+
+Your power level is the combined power value across all of your equipped gear. This will either increase your damage output and defense as you increase your power level. You can increase your power level by completing powerful or pinnacle activities. I will make a guide going over the best ways to approach increasing your power level in detail at a later point. 
+
+**Character Stats**
+
+When you look to the left of your armor, there is a column of numbers. Each of these numbers correspond to a stat that impacts the gameplay of your character and each one does something different. We will go through each starting from top to bottom. 
+
+Each class has a "Class Stat." This class stat gives you a bonus for increasing the amount of that stat.
+
+For example, on the Hunter class, increasing your Mobility stat will decrease the amount of time that it takes for your class ability to recharge. On the Titan, increasing your Resilience will do the same, and then on the Warlock, increasing your Recovery will do the same as well.
+
+When you increase your stat in one of the categories, you will increase its tier. There are ten tiers for a stat. Tier 1 is from 1-10, Tier 2 is from 11-20, and so on. Say if you have a stat roll of 75 in Mobility, that means your Mobility is in Tier 7. Although your roll is 75, you do not get credit for the 5 that is over Tier 7. Even if your stat roll is 79 for example. You only get credit for 70. You could think of it this way. Divide your stat roll by ten and then ignore the remainder and that is what tier your stat roll is in.
+
+Increasing a specific stat will increase something from its base value or decrease something's cooldown rate or recharge rate. We will now go over exactly what those somethings are for each stat.
+
+**Mobility**
+
+![Character UI Mobility](https://user-images.githubusercontent.com/72057076/97353481-7c8ac000-186a-11eb-9664-ffa552c0c1de.png)
+
+**Resilience**
+
+![Character UI Resilience](https://user-images.githubusercontent.com/72057076/97355102-d2f8fe00-186c-11eb-9c10-f23eca06de95.png)
+
+**Recovery**
+
+![Character UI Recovery](https://user-images.githubusercontent.com/72057076/97355106-d4c2c180-186c-11eb-8cc7-447098db0473.png)
+
+**Discipline**
+
+![Character UI Discipline](https://user-images.githubusercontent.com/72057076/97355149-dee4c000-186c-11eb-8c32-fcd9923fae4b.png)
+
+**Intellect**
+
+![Character UI Intellect](https://user-images.githubusercontent.com/72057076/97355157-e2784700-186c-11eb-88bf-2b83ff4cd1f4.png)
+
+**Strength**
+
+![Character UI Strength](https://user-images.githubusercontent.com/72057076/97355114-d68c8500-186c-11eb-8502-1f35687ce19c.png)
