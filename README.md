@@ -1,5 +1,6 @@
 # Welcome to Mr Arkaine's Beginner's Guide to Understanding Destiny 2's Character UI
 
+**Introduction**
 
 This is a beginner's guide to understanding Destiny 2's character ui and how to use it. This guide is meant for those of you who do not understand something within the UI or are completely new to the game. If you are new to the game, this is a great place to start before diving into the complexity and mechanics of the game. 
 
@@ -204,50 +205,48 @@ Increasing a specific stat will increase something from its base value or decrea
 
 ![Character UI Mobility](https://user-images.githubusercontent.com/72057076/97353481-7c8ac000-186a-11eb-9664-ffa552c0c1de.png)
 
+This stat increases your movement speed and maximum jump height. If you hover above Mobility it will tell you how much the base speed is increased by. 
+
 **Resilience**
 
 ![Character UI Resilience](https://user-images.githubusercontent.com/72057076/97355102-d2f8fe00-186c-11eb-9c10-f23eca06de95.png)
+
+This stat increases the amount of damage you can take before dying. As you increase this stat it simply increases the shield capacity.
 
 **Recovery**
 
 ![Character UI Recovery](https://user-images.githubusercontent.com/72057076/97355106-d4c2c180-186c-11eb-8cc7-447098db0473.png)
 
+This stat increases the speed at which you regain lost health. As you increase this stat you increase the recovery rate of your health.
+
 **Discipline**
 
 ![Character UI Discipline](https://user-images.githubusercontent.com/72057076/97355149-dee4c000-186c-11eb-8c32-fcd9923fae4b.png)
+
+This stat decreases the cooldown time of your grenades, allowing you to use them more often. 
 
 **Intellect**
 
 ![Character UI Intellect](https://user-images.githubusercontent.com/72057076/97355157-e2784700-186c-11eb-88bf-2b83ff4cd1f4.png)
 
+This stat decreases the cooldown of your Super ability, allowing you to use it more often. 
+
 **Strength**
 
 ![Character UI Strength](https://user-images.githubusercontent.com/72057076/97355114-d68c8500-186c-11eb-8502-1f35687ce19c.png)
 
+This stat decreases the cooldown time of your ability, allowing you to use it more often.
+
 **Armor**
 
+You have five different pieces of armor. You have your helmet, arms, chest, legs, and class item. Now with armor, you can only equip one Exotic piece at a time. Additionally, with armor, each one has its own mods. For example, the mods you are able to equip on your helmet will not be the same mods on your arms. Also, depending on the elemental burn of said armor, will affect the type of mods you can equip. This will require a more in depth guide to understand and will do this at a later point.
 
-
-**Helmet**
-
-![Character UI Helmet](https://user-images.githubusercontent.com/72057076/97377367-3ea39100-1896-11eb-80fc-99ad2323f9c2.png)
-
-**Arms**
-
-![Character UI Arms](https://user-images.githubusercontent.com/72057076/97377370-3fd4be00-1896-11eb-9e17-85b9802677c1.png)
-
-**Chest**
-
-![Character UI Chest](https://user-images.githubusercontent.com/72057076/97377374-419e8180-1896-11eb-9f36-c220c0058524.png)
-
-**Legs**
-
-![Character UI Legs](https://user-images.githubusercontent.com/72057076/97377377-42cfae80-1896-11eb-8141-cd3e20f7d87c.png)
-
-**Class Item**
-
-![Character UI Class Item](https://user-images.githubusercontent.com/72057076/97377379-4400db80-1896-11eb-861a-98a9c80c59de.png)
+Your armor is what directly affects what stats you have on your character. This is likely the most important thing to gain from understanding how armor works. The stat rolls given on your armor is completely randomly rolled and you have no control of this. With luck and time you can and will earn armor with the stats you want to create builds that you want for a specific role in the game.
 
 **Clan Banner**
 
 ![Character UI Clan Banner](https://user-images.githubusercontent.com/72057076/97377381-45320880-1896-11eb-808a-01f5815edc80.png)
+
+Your clan banner is likely the least important thing on the character ui in my opinion. This simply tells you what perks you and your clan have unlocked so far within the season. Besides that, the clan banner is pointless.
+
+This is as far as I have gotten with the guide. Any feedback would be greatly appreciated.
