@@ -1,10 +1,16 @@
 # Welcome to Mr Arkaine's Beginner's Guide to Understanding Destiny 2's Character UI
 
-**Introduction**
+**Table of Contents**
+1. Introduction
+1. Where to Begin?
+1. Now Taking a Look into the Character's UI
+
+
+**1. Introduction**
 
 This is a beginner's guide to understanding Destiny 2's character ui and how to use it. This guide is meant for those of you who do not understand something within the UI or are completely new to the game. If you are new to the game, this is a great place to start before diving into the complexity and mechanics of the game. 
 
-**Where to Begin?**
+**2. Where to Begin?**
 
 To start off, when you start up your game for the first time you will come across the steps to creating your character. First, you will choose which class you would like to be. You can choose from one of three classes. 
 
@@ -24,7 +30,7 @@ Next you will then choose your character's race and gender, then customize your 
 
 After the introduction to Destiny 2's story and an some gameplay you will finally have a chance to take a look into the character ui. I believe that they give a brief introduction into what everything is but this guide goes a little further in depth. 
 
-**Now Taking a Look into the Character's UI**
+**3. Now Taking a Look into the Character's UI**
 
 
 Lets look in the top left of the character's ui. There you will see four things. You will see your name located here. Whether it be your Gamertag, Steam Name/ID, or your Playstation ID, these will be all there where the highlighted item is below.
@@ -69,7 +75,7 @@ Bright dust is used to buy cosmetics from Eververse and can be earned by playing
 
 This explains what is located at the top of the character ui besides the navigation bar, which I believe is somewhat self explanatory.
 
-**Element System**
+**4. Element System**
 
 Before explaining the subclasses lets explain the element system. There are three elements. *Arc* (orange), *Solar* (blue), and *Void* (purple). Each are depicted below from the subclass selection portion of the character's ui. 
 
@@ -77,7 +83,7 @@ Before explaining the subclasses lets explain the element system. There are thre
 
 During gameplay in a PvE (player vs environment) environment, you can match the elemnts to the enemies shields if they have one and you will do more damage, breaking the enemies shield sooner versus using the wrong element or none at all. In higher tier gameplay this becomes a bit more important due to some modifiers within the game. This will be discussed in another guide at a later point.
 
-**Subclasses**
+**5. Subclasses**
 
 ![Character UI Subclass](https://user-images.githubusercontent.com/72057076/97235647-b18b0a00-17b9-11eb-9e42-0ca6f1eaa9cc.png)
 
@@ -87,31 +93,31 @@ To continue, each of these specific subclasses and paths have their own names wh
 
 ![Character UI Subclass Detailed](https://user-images.githubusercontent.com/72057076/97236639-e304d500-17bb-11eb-9794-564a1fb6e643.png)
 
-**Class Abilities**
+**6. Class Abilities**
 
 ![Character UI Subclass Abilities](https://user-images.githubusercontent.com/72057076/97236630-dbddc700-17bb-11eb-90cf-dbb0dbed4d8e.png)
 
 Each class has their own unique abilities as well. You have two options to choose from when selecting a ability and each has a brief description explaining what each does. The Titan uses a barricade to shield them from incoming damage, the Hunter has a dodge that either reloads your weapon or recharges your melee ability, and then the Warlock has a rift which either heals you as you stand in it or increases weapon damage.
 
-**Grenades**
+**7. Grenades**
 
 ![Character UI Subclass Grenades](https://user-images.githubusercontent.com/72057076/97236675-fd3eb300-17bb-11eb-81e8-74b4c4ae81aa.png)
 
 For each class, you have three grenades to choose from and each does their own unique thing. Just mess around and see which you like or prefer. Though some are better than others or are simply more viable and easier to use.
 
-**Movement Modes / Jump**
+**8. Movement Modes / Jump**
 
 ![Character UI Subclass Jump](https://user-images.githubusercontent.com/72057076/97236685-062f8480-17bc-11eb-917a-19ae367f647b.png)
 
 Again, for each class you have three of these to choose from and each is a bit different. Either giving you better movement in air, better control, or more lift. This is personal preference but you will find that as you play there are situational advantages to each. 
 
-**Super Abilities**
+**9. Super Abilities**
 
 ![Character UI Subclass Trees](https://user-images.githubusercontent.com/72057076/97236701-0b8ccf00-17bc-11eb-89dd-bc500225f9c6.png)
 
 During gameplay you can use an ultimate/super ability which allows the player to use offensive, defensive, or support powers. You can find videos explaining which are best in what situations but I will go over this in a later guide as well.
 
-**Weapon System**
+**10. Weapon System**
 
 So now, we're going to dive into the weapon system. I am for now going to keep it simple. But you have the following main weapon types.
 
@@ -145,19 +151,19 @@ So now, we're going to dive into the weapon system. I am for now going to keep i
   
 With the weapon system in Destiny 2, Primary and Secondary weapons can fit into either or the Kinetic slot or the Energy slot. The heavy weapons listed above stay the same.
 
-**Kinetic Weapons**
+**11. Kinetic Weapons**
 
 ![Character UI Kinetic Weapon](https://user-images.githubusercontent.com/72057076/97347978-e81d5f00-1863-11eb-8596-7dc3f7555c6d.png)
 
 Weapons in the Kinetic slot do not have an elemental burn attached to them. The weapons that fit into this category are Secondary and Primary weapons. 
 
-**Energy Weapons**
+**12. Energy Weapons**
 
 ![Character UI Energy Weapon](https://user-images.githubusercontent.com/72057076/97348171-2dda2780-1864-11eb-895c-5d73d86dabb1.png)
 
 Weapons in this slot have an elemental burn. They can be one of the three that we previously talked about in the beginning. The weapons that fit into this category are the Primary and the Secondary weapon types.
 
-**Heavy Weapons** 
+**13. Heavy Weapons** 
 
 ![Character UI Power Weapon](https://user-images.githubusercontent.com/72057076/97348590-bbb61280-1864-11eb-918d-dd7c1babc67a.png)
 
@@ -165,7 +171,7 @@ These weapons are going to be the ones I listed above in the Heavy/Power categor
 
 You can do various different builds with each of these weapons to optimize your performance during gameplay. Normally you want to use at least one Primary weapon, one secondary weapon, and then one Heavy, which technically you can't avoid because this slot doesn't move nor take any weapons from the other categories. Another way you can play is simply using two Primary weapons and then a Heavy. Honestly, this is just personal preference. To start off, just play the game and find weapons you like to use.
 
-**Ghost**
+**14. Ghost**
 
 The second to last slot on the left side of the character ui is where your ghost is located.
 
@@ -173,7 +179,7 @@ The second to last slot on the left side of the character ui is where your ghost
 
 Your ghost can give you additional attributes. These could include increased XP gain, glimmer gain, identify items near you on your HUD, reward additonal faction tokens or just simply look really cool! You can find them during normal gameplay or purchasing them from NPCs/vendors.
 
-**Artifact**
+**15. Artifact**
 
 ![Character UI  Artifact](https://user-images.githubusercontent.com/72057076/97351868-b6f35d80-1868-11eb-9931-cea926be9bea.png)
 
@@ -183,13 +189,13 @@ The last slot on the left is your artifact.
 
 When you open the artifact and look at its details, the artifact is where gameplay begins to change a bit. You can find enhanced mods, barrier mods, mods that grant glimmer when killing a certain enemy, and then other mods that do "special" things. These special things could include weakening enemies and or increasing damage.
 
-**Power Level**
+**16. Power Level**
 
 ![Character UI Power Level](https://user-images.githubusercontent.com/72057076/97352937-bdcea000-1869-11eb-8928-21aed29a5a76.png)
 
 Your power level is the combined power value across all of your equipped gear. This will either increase your damage output and defense as you increase your power level. You can increase your power level by completing powerful or pinnacle activities. I will make a guide going over the best ways to approach increasing your power level in detail at a later point. 
 
-**Character Stats**
+**17. Character Stats**
 
 When you look to the left of your armor, there is a column of numbers. Each of these numbers correspond to a stat that impacts the gameplay of your character and each one does something different. We will go through each starting from top to bottom. 
 
@@ -237,16 +243,22 @@ This stat decreases the cooldown of your Super ability, allowing you to use it m
 
 This stat decreases the cooldown time of your ability, allowing you to use it more often.
 
-**Armor**
+**18. Armor**
 
 You have five different pieces of armor. You have your helmet, arms, chest, legs, and class item. Now with armor, you can only equip one Exotic piece at a time. Additionally, with armor, each one has its own mods. For example, the mods you are able to equip on your helmet will not be the same mods on your arms. Also, depending on the elemental burn of said armor, will affect the type of mods you can equip. This will require a more in depth guide to understand and will do this at a later point.
 
 Your armor is what directly affects what stats you have on your character. This is likely the most important thing to gain from understanding how armor works. The stat rolls given on your armor is completely randomly rolled and you have no control of this. With luck and time you can and will earn armor with the stats you want to create builds that you want for a specific role in the game.
 
-**Clan Banner**
+**19. Clan Banner**
 
 ![Character UI Clan Banner](https://user-images.githubusercontent.com/72057076/97377381-45320880-1896-11eb-808a-01f5815edc80.png)
 
 Your clan banner is likely the least important thing on the character ui in my opinion. This simply tells you what perks you and your clan have unlocked so far within the season. Besides that, the clan banner is pointless.
+
+**20. Where to Get Support**
+
+**21. How to Contribute**
+
+**22. Licensing**
 
 This is as far as I have gotten with the guide. Any feedback would be greatly appreciated.
