@@ -279,6 +279,7 @@ Your clan banner is likely the least important thing on the character ui in my o
 If you have any question you can always refer to Destiny 2's reddit page you can contact me through one of two ways below. 
 
 Discord: Mr Arkaine#4178
+
 Email: mrarkaine@gmail.com
 
 **21. How to Contribute**
