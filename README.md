@@ -4,6 +4,25 @@
 1. Introduction
 1. Where to Begin?
 1. Now Taking a Look into the Character's UI
+1. Element System
+1. Subclasses
+1. Class Abilities
+1. Grenades
+1. Movement Modes / Jump
+1. Super Abilities
+1. Weapon System
+1. Kinetic Weapons
+1. Energy Weapons
+1. Heavy Weapons
+1. Ghost
+1. Artifact
+1. Power Level
+1. Character Stats
+1. Armor
+1. Clan Banner
+1. Where to Get Support
+1. How to Contribute
+1. Licensing
 
 
 **1. Introduction**
@@ -257,8 +276,37 @@ Your clan banner is likely the least important thing on the character ui in my o
 
 **20. Where to Get Support**
 
+If you have any question you can always refer to Destiny 2's reddit page you can contact me through one of two ways below. 
+
+Discord: Mr Arkaine#4178
+Email: mrarkaine@gmail.com
+
 **21. How to Contribute**
+
+If you would like to contribute or have any suggestions then simply contact me. 
 
 **22. Licensing**
 
-This is as far as I have gotten with the guide. Any feedback would be greatly appreciated.
+MIT License
+
+Copyright (c) 2020 pretlowjc
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+*This is as far as I have gotten with the guide. Any feedback would be greatly appreciated.*
