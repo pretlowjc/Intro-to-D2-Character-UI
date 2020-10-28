@@ -223,3 +223,31 @@ Increasing a specific stat will increase something from its base value or decrea
 **Strength**
 
 ![Character UI Strength](https://user-images.githubusercontent.com/72057076/97355114-d68c8500-186c-11eb-8502-1f35687ce19c.png)
+
+**Armor**
+
+
+
+**Helmet**
+
+![Character UI Helmet](https://user-images.githubusercontent.com/72057076/97377367-3ea39100-1896-11eb-80fc-99ad2323f9c2.png)
+
+**Arms**
+
+![Character UI Arms](https://user-images.githubusercontent.com/72057076/97377370-3fd4be00-1896-11eb-9e17-85b9802677c1.png)
+
+**Chest**
+
+![Character UI Chest](https://user-images.githubusercontent.com/72057076/97377374-419e8180-1896-11eb-9f36-c220c0058524.png)
+
+**Legs**
+
+![Character UI Legs](https://user-images.githubusercontent.com/72057076/97377377-42cfae80-1896-11eb-8141-cd3e20f7d87c.png)
+
+**Class Item**
+
+![Character UI Class Item](https://user-images.githubusercontent.com/72057076/97377379-4400db80-1896-11eb-861a-98a9c80c59de.png)
+
+**Clan Banner**
+
+![Character UI Clan Banner](https://user-images.githubusercontent.com/72057076/97377381-45320880-1896-11eb-808a-01f5815edc80.png)
