@@ -1,7 +1,8 @@
 # Welcome to Mr Arkaine's Beginner's Guide to Understanding Destiny 2's Character UI
 
 **Table of Contents**
-1. #Introduction
+1. [**Introduction**](#Introduction)
+
 1. Where to Begin?
 1. Now Taking a Look into the Character's UI
 1. Element System
