@@ -1,7 +1,7 @@
 # Welcome to Mr Arkaine's Beginner's Guide to Understanding Destiny 2's Character UI
 
 **Table of Contents**
-1. Introduction
+1. #Introduction
 1. Where to Begin?
 1. Now Taking a Look into the Character's UI
 1. Element System
@@ -25,7 +25,7 @@
 1. Licensing
 
 
-**Introduction**
+[**Introduction**](#Introduction)
 
 1. This is a beginner's guide to understanding Destiny 2's character UI and how to use it. This guide is meant for those who do not understand something within the UI. Or maybe you are entirely new to the game. If you are new to the game, this is a great place to start before diving into the game's complexity and mechanics. 
 
