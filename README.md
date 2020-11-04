@@ -1,6 +1,7 @@
 # Welcome to Mr Arkaine's Beginner's Guide to Understanding Destiny 2's Character UI
 
 **Table of Contents**
+
 [Introduction](#introduction)
 
 [Where to Begin](#where-to-begin)
