@@ -3,7 +3,7 @@
 **Table of Contents**
 1. [Introduction](#introduction)
 1. [Where to Begin](#where-to-begin)
-1. [Now Taking a Look into the Character's UI](#now-taking-a-look-into-the-character's-ui)
+1. [Now Taking a Look into the Character's UI](#now-taking-a-look-into-the-ui)
 1. Element System
 1. Subclasses
 1. Class Abilities
@@ -49,7 +49,7 @@ Next, you will choose your character's race and gender, then customize your face
 
 After being introduced to Destiny 2's story and some gameplay, you will finally have a chance to take a look into the character UI. They give a brief introduction into what everything is but this guide goes a little further in-depth. 
 
-# Now Taking a Look into the Character's UI
+# Now Taking a Look into the UI
 
 
 3. Let's look at the top left of the character's UI. There you will see four things. You will see your name located here. Whether it be your Gamertag, Steam Name/ID, or your Playstation ID, these will be all there where the highlighted item is below.
