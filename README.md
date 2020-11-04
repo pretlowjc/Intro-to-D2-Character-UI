@@ -2,26 +2,47 @@
 
 **Table of Contents**
 [Introduction](#introduction)
+
 [Where to Begin](#where-to-begin)
+
 [Now Taking a Look into the Character's UI](#now-taking-a-look-into-the-ui)
+
 [Element System](#element-system)
+
 [Subclasses](#subclasses)
+
 [Class Abilities](#class-abilities)
+
 [Grenades](#grenades)
+
 [Movement Modes](#movement-modes)
+
 [Super Abilities](#super-abilities)
+
 [Weapon System](#weapon-system)
+
 [Kinetic Weapons](#kinetic-weapons)
+
 [Energy Weapons](#energy-weapons)
+
 [Heavy Weapons](#heavy-weapons)
+
 [Ghost](#ghost)
+
 [Artifact](#artifact)
+
 [Power Level](#power-level)
+
 [Character Stats](#character-stats)
+
 [Armor](#armor)
+
 [Clan Banner](#clan-banner)
+
 [Where to Get Support](#where-to-get-support)
+
 [How to Contribute](#how-to-contribute)
+
 [Licensing](#licensing)
 
 
