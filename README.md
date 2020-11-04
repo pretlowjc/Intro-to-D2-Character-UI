@@ -2,7 +2,7 @@
 
 **Table of Contents**
 1. [Introduction](#introduction)
-1. [Where to Begin?](#where-to-begin?)
+1. [Where to Begin](#where-to-begin)
 1. Now Taking a Look into the Character's UI
 1. Element System
 1. Subclasses
@@ -29,7 +29,7 @@
 
 This is a beginner's guide to understanding Destiny 2's character UI and how to use it. This guide is meant for those who do not understand something within the UI. Or maybe you are entirely new to the game. If you are new to the game, this is a great place to start before diving into the game's complexity and mechanics. 
 
-# Where to Begin?
+# Where to Begin
 
 To start, when you start up your game for the first time, you will come across the steps to creating your character. First, you will choose which class you would like to be. You can choose from one of three classes. 
 
