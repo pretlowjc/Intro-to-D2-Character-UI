@@ -3,7 +3,7 @@
 **Table of Contents**
 1. [Introduction](#introduction)
 1. [Where to Begin](#where-to-begin)
-1. [Now Taking a Look into the Character's UI](#now-taking-a-look-into-the-character's-iu)
+1. [Now Taking a Look into the Character's UI](#now-taking-a-look-into-the-characters-iu)
 1. Element System
 1. Subclasses
 1. Class Abilities
